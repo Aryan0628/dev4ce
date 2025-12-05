@@ -1,4 +1,4 @@
-# Alchemist's Grimoire (Insight-X)
+# Insight-X
 
 ## 🧙‍♂️ Introduction
 
